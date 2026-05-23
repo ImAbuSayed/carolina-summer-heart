@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/carolina-summer-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Carolina Summer Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/carolina-summer-heart/) |
+| **Get License** | [Commercial Licensing for Carolina Summer Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/carolina-summer-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the summer pulling me close to you
+> Dancing in the headlights on an empty avenue
+> Every little breath you take is setting me on fire
+> Tonight I want to lose myself inside of your desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
