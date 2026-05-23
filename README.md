@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/carolina-summer-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Carolina Summer Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/carolina-summer-heart/) |
+| **Get License** | [Secure Licensing Rights for Carolina Summer Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/carolina-summer-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8567d8856fa4ac89b56738df366abaffbbd2b2409a0a3e7d60c7837873b41b79` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
